@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Brothers. I am Ravindra Dattaram Jadhav
+          Hello Brothers. I am Ravindra Dattaram Jadhav. I am a Android and WebSite Developer.
         </a>
       </header>
     </div>
